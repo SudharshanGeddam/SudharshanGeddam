@@ -80,7 +80,7 @@ Flutter • Firebase • REST APIs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudharshanGeddam&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudharshanGeddam&theme=tokyonight&v=1" alt="streak" />
 </p>
 
 ---
